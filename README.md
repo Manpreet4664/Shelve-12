@@ -1,6 +1,6 @@
-# Maple Leafs
+### Maple Leafs
 
-# Identification
+##### Identification
 
 Shelve 12
 1. Jay Sharma
@@ -10,19 +10,19 @@ Shelve 12
 5. Shehzeen Huda
 6. Rishabh Dhawan
 
-# Project Summary
+##### Project Summary
 'Shelve-12' is a card exchange game, which has been designed for NHL fans. The user will initially get few cards to compete against the system and on the basis of the NHL player ranking, user will either win a card from the system or loose the card to it during a competition match. User can see some basic statistics related to his gameplay like the coins he has won, his level, medals and teams on the dashboard itself. Additionally, the user can purchase cards using his coins from the XII Store. We have added a navigation bar with menu items that include a Dashboard, XII Store, Medals, Tutorial and Terms. We have also provided a QR Code screen that generates a unique QR for the userID.
 
-## Libraries
+##### Libraries
 
 **AndroidX:** Latest updated Android Support Library. Source [here](https://developer.android.com/reference/androidx/packages)
 
 **QRGenerator:** Helps generating QR Code for a given string. Source [here](https://github.com/androidmads/QRGenerator)
 
-## Installation Notes
+##### Installation Notes
 Minimum Android SDK version required: 23
 
-## Code Examples
+##### Code Examples
 
 **Problem 1: Issues in implementing database**
 
@@ -70,7 +70,7 @@ public boolean updateUser(UserModel userModel){
 // Source: https://developer.android.com/training/data-storage/sqlite#java
 ```
 
-## Feature Section
+##### Feature Section
 
 1. Dashboard
 	- Statistics visible showing Medals, Coins, Teams
@@ -95,7 +95,7 @@ public boolean updateUser(UserModel userModel){
 7. QR Code
 	- Shows a QR code for user's ID
 
-## Final Project Status
+##### Final Project Status
 As proposed, project successfully implemented all of the features within the best interest of the users to provide them with an immersive and a unique game. Future of the application inspires the team on encompassing all the bonus functionalities with multiplayer support at top of the priority list. Almost all the proposed goals were complemented.
 
 The next steps, if the project were to continue:
@@ -106,7 +106,7 @@ The next steps, if the project were to continue:
 - More teams and members to be added
 - More levels to be added
 
-#### Minimum Functionality (from Proposal)
+##### Minimum Functionality (from Proposal)
 
 - The minimum functionality requires a main game screen with a menu (Completed)
 - Comparison and exchange of cards should work (Completed)
@@ -114,7 +114,7 @@ The next steps, if the project were to continue:
 - User should be able to see some statistics (Completed)
 - A QR code should generate (Completed)
 
-#### Expected Functionality
+##### Expected Functionality
 
 - The exchange of cards should also result in earning coins or losing a card (Completed)
 - The current level, total number of coins and cards earned should be maintained (Completed)
@@ -123,7 +123,7 @@ The next steps, if the project were to continue:
 - User should be able to purchase a card from the Store using virtual coins (Partially Completed) - database not updating yet
 - User should be able to share a card through QR code (Not Implemented)
 
-#### Bonus Functionality
+##### Bonus Functionality
 
 - User can reset the game and statistics (Completed)
 - Game can have some music with an on/off switch (Removed)
@@ -133,7 +133,7 @@ The next steps, if the project were to continue:
 - Adding a picture to every card face (Completed)
 - A multiplayer mode utilizing GPS to find players nearby and compete or a multiplayer mode (Not Implemented)
 
-## Sources
+##### Sources
 
 - Images
 	- [1] NFL Players. Available: https://www.nfl.com/
