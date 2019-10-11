@@ -3,18 +3,12 @@
 # Identification
 
 Shelve 12
-1. B00824331: Jay Sharma - jay.sharma@dal.ca (Leader)
-2. B00821998: Manpreet Singh - manpreet.singh@dal.ca
-3. B00792805: Alfred Nketia - al702002@dal.ca
-4. B00820613: Abhinandan Walia - ab403576@dal.ca
-5. B00812551: Shehzeen Huda - sh655624@dal.ca
-6. B00826918: Rishabh Dhawan - rs666810@dal.ca
-
-Link to Git repository:
-https://git.cs.dal.ca/jays/shelve12
-
-Information on Individual Contributions:
-https://git.cs.dal.ca/jays/shelve12/blob/master/CONTRIBUTING.md
+1. Jay Sharma
+2. Manpreet Singh
+3. Alfred Nketia
+4. Abhinandan Walia
+5. Shehzeen Huda
+6. Rishabh Dhawan
 
 # Project Summary
 'Shelve-12' is a card exchange game, which has been designed for NHL fans. The user will initially get few cards to compete against the system and on the basis of the NHL player ranking, user will either win a card from the system or loose the card to it during a competition match. User can see some basic statistics related to his gameplay like the coins he has won, his level, medals and teams on the dashboard itself. Additionally, the user can purchase cards using his coins from the XII Store. We have added a navigation bar with menu items that include a Dashboard, XII Store, Medals, Tutorial and Terms. We have also provided a QR Code screen that generates a unique QR for the userID.
